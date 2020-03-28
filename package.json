@@ -1,5 +1,5 @@
 {
-  "name": "@types/rc-easyui",
+  "name": "ts-types-rc-easyui",
   "version": "1.0.0",
   "description": "types for jquery easyui (react version: rc-easyui)",
   "main": "",
@@ -20,5 +20,6 @@
   "homepage": "https://github.com/maspinguin/ts-types-rc-easyui#readme",
   "dependencies": {
     "@types/react": "*"
-  }
+  },
+  "prepublish": "tsc"
 }
