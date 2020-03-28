@@ -1,0 +1,24 @@
+{
+  "name": "@types/rc-easyui",
+  "version": "1.0.0",
+  "description": "types for jquery easyui (react version: rc-easyui)",
+  "main": "",
+  "types": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maspinguin/ts-types-rc-easyui.git"
+  },
+  "keywords": [
+    "rc-easyui",
+    "rc-easyui-types"
+  ],
+  "author": "bangkit.ilhamz@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maspinguin/ts-types-rc-easyui/issues"
+  },
+  "homepage": "https://github.com/maspinguin/ts-types-rc-easyui#readme",
+  "dependencies": {
+    "@types/react": "*"
+  }
+}
