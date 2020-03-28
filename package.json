@@ -20,6 +20,5 @@
   "homepage": "https://github.com/maspinguin/ts-types-rc-easyui#readme",
   "dependencies": {
     "@types/react": "*"
-  },
-  "prepublish": "tsc"
+  }
 }
